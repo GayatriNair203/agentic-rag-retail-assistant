@@ -1,2 +1,4 @@
 # agentic-rag-retail-assistant
 Agentic AI–powered RAG (Retrieval-Augmented Generation) assistant for a retail enterprise, featuring query routing, sentiment detection, multi-department knowledge bases, and human-escalation workflows.
+This project implements an Agentic AI (Artificial Intelligence) assistant for a retail company use case. The system uses RAG (Retrieval-Augmented Generation) to answer queries from both internal employees and external customers by routing requests to department-specific knowledge bases (HR (Human Resources), IT Support, Billing & Payments, Shipping & Delivery).
+It leverages agentic patterns such as query routing, planning, sentiment analysis, and conditional human escalation to deliver accurate, context-aware responses. Built as a hands-on capstone to demonstrate real-world enterprise Gen AI (Generative Artificial Intelligence) system design.
